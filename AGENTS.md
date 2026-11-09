@@ -14,6 +14,8 @@ web UI (`frontend/`, served by the backend at `/`), as a REST API
 (`snpwayGeneMappingsQuery`, `snpwayOverrepresentationWorkflowQuery`; default base
 URL `http://snpway.annoq.org`).
 
+Repository: https://github.com/USCbiostats/SNPWay_Workflow
+
 Citation: [SNPWay citation to be added on publication].
 
 ## Endpoints

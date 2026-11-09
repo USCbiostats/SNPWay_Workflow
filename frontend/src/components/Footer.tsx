@@ -79,7 +79,7 @@ const Footer: React.FC = () => {
               </ListItem>
               <ListItem disableGutters>
                 <ExternalLink
-                  href="https://github.com/USCbiostats/Annoq_Overrepr_Workflow"
+                  href="https://github.com/USCbiostats/SNPWay_Workflow"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
