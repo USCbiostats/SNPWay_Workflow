@@ -278,7 +278,7 @@ function Home() {
 
     const form = document.createElement("form");
     form.method = "POST";
-    form.action = "/services/oai/pantherdb/enrich/overrep"; //"https://pantherdb.org/services/oai/pantherdb/enrich/overrep";
+    form.action = "https://pantherdb.org/services/oai/pantherdb/enrich/overrep";
     form.target = "_blank";
 
     const correctionField = document.createElement("input");
