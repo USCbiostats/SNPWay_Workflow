@@ -57,11 +57,11 @@ const Contact: React.FC = () => {
                 Submit issues, feature requests, or pull requests here:
               </Typography>
               <Link
-                href="https://github.com/USCbiostats/Annoq_Overrepr_Workflow"
+                href="https://github.com/USCbiostats/SNPWay_Workflow"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                github.com/USCbiostats/Annoq_Overrepr_Workflow
+                github.com/USCbiostats/SNPWay_Workflow
               </Link>
             </Box>
           </Stack>
